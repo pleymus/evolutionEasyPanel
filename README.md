@@ -15,7 +15,7 @@ Links úteis:
       "data": {
         "projectName": "evo-postgres",
         "serviceName": "evo-postgres",
-        "image": "bitnami/postgresql:16"
+        "image": "bitnami/postgresql:17"
       }
     },
     {
@@ -41,7 +41,7 @@ Links úteis:
         "serviceName": "evolution",
         "source": {
           "type": "image",
-          "image": "atendai/evolution-api:v2.2.0"
+          "image": "atendai/evolution-api:v2.2.2"
         },
         "domains": [
           {
