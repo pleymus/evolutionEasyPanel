@@ -15,7 +15,7 @@ Links úteis:
       "data": {
         "projectName": "evo-postgres",
         "serviceName": "evo-postgres",
-        "image": "bitnami/postgresql:17"
+        "image": "bitnami/postgresql:16"
       }
     },
     {
